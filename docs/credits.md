@@ -97,13 +97,6 @@
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/Singebob">
-            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
-            <br />
-            <sub><b>Jeremy Chauvin</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/BeginCI">
             <img src="https://avatars.githubusercontent.com/u/57495754?v=4" width="80;" alt="BeginCI"/>
             <br />
@@ -137,13 +130,20 @@
             <br />
             <sub><b>Iaroslav Dronskii</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/b1thunt3r">
             <img src="https://avatars.githubusercontent.com/u/791091?v=4" width="80;" alt="b1thunt3r"/>
             <br />
             <sub><b>Ishan Jain</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Singebob">
+            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
+            <br />
+            <sub><b>Jeremy Chauvin</b></sub>
         </a>
     </td>
     <td align="center">
