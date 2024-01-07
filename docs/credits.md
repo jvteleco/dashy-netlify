@@ -75,10 +75,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/BOZG">
-            <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
+        <a href="https://github.com/rubenandre">
+            <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
             <br />
-            <sub><b>Stephen Rigney</b></sub>
+            <sub><b>Rúben Silva</b></sub>
         </a>
     </td>
     <td align="center">
@@ -89,82 +89,32 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/rubenandre">
-            <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
+        <a href="https://github.com/BOZG">
+            <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
             <br />
-            <sub><b>Rúben Silva</b></sub>
+            <sub><b>Stephen Rigney</b></sub>
         </a>
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/BeginCI">
-            <img src="https://avatars.githubusercontent.com/u/57495754?v=4" width="80;" alt="BeginCI"/>
+        <a href="https://github.com/jnach">
+            <img src="https://avatars.githubusercontent.com/u/33467747?v=4" width="80;" alt="jnach"/>
             <br />
-            <sub><b>Begin</b></sub>
+            <sub><b>Jnach</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/skaarj1989">
-            <img src="https://avatars.githubusercontent.com/u/34756939?v=4" width="80;" alt="skaarj1989"/>
+        <a href="https://github.com/icy-comet">
+            <img src="https://avatars.githubusercontent.com/u/50461557?v=4" width="80;" alt="icy-comet"/>
             <br />
-            <sub><b>David</b></sub>
+            <sub><b>Aniket Teredesai</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/deepsourcebot">
-            <img src="https://avatars.githubusercontent.com/u/60907429?v=4" width="80;" alt="deepsourcebot"/>
+        <a href="https://github.com/XertDev">
+            <img src="https://avatars.githubusercontent.com/u/16572811?v=4" width="80;" alt="XertDev"/>
             <br />
-            <sub><b>DeepSource Bot</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/FormatToday">
-            <img src="https://avatars.githubusercontent.com/u/20515769?v=4" width="80;" alt="FormatToday"/>
-            <br />
-            <sub><b>FormatToday</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Compunctus">
-            <img src="https://avatars.githubusercontent.com/u/5058853?v=4" width="80;" alt="Compunctus"/>
-            <br />
-            <sub><b>Iaroslav Dronskii</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/b1thunt3r">
-            <img src="https://avatars.githubusercontent.com/u/791091?v=4" width="80;" alt="b1thunt3r"/>
-            <br />
-            <sub><b>Ishan Jain</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Singebob">
-            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
-            <br />
-            <sub><b>Jeremy Chauvin</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/KierenConnell">
-            <img src="https://avatars.githubusercontent.com/u/46445781?v=4" width="80;" alt="KierenConnell"/>
-            <br />
-            <sub><b>Kieren Connell</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rubjo">
-            <img src="https://avatars.githubusercontent.com/u/42270947?v=4" width="80;" alt="rubjo"/>
-            <br />
-            <sub><b>Rubjo</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/turnrye">
-            <img src="https://avatars.githubusercontent.com/u/701035?v=4" width="80;" alt="turnrye"/>
-            <br />
-            <sub><b>Ryan Turner</b></sub>
+            <sub><b>Xert</b></sub>
         </a>
     </td>
     <td align="center">
@@ -175,25 +125,75 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/XertDev">
-            <img src="https://avatars.githubusercontent.com/u/16572811?v=4" width="80;" alt="XertDev"/>
+        <a href="https://github.com/turnrye">
+            <img src="https://avatars.githubusercontent.com/u/701035?v=4" width="80;" alt="turnrye"/>
             <br />
-            <sub><b>Xert</b></sub>
+            <sub><b>Ryan Turner</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rubjo">
+            <img src="https://avatars.githubusercontent.com/u/42270947?v=4" width="80;" alt="rubjo"/>
+            <br />
+            <sub><b>Rubjo</b></sub>
         </a>
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/icy-comet">
-            <img src="https://avatars.githubusercontent.com/u/50461557?v=4" width="80;" alt="icy-comet"/>
+        <a href="https://github.com/KierenConnell">
+            <img src="https://avatars.githubusercontent.com/u/46445781?v=4" width="80;" alt="KierenConnell"/>
             <br />
-            <sub><b>Aniket Teredesai</b></sub>
+            <sub><b>Kieren Connell</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/jnach">
-            <img src="https://avatars.githubusercontent.com/u/33467747?v=4" width="80;" alt="jnach"/>
+        <a href="https://github.com/Singebob">
+            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
             <br />
-            <sub><b>Jnach</b></sub>
+            <sub><b>Jeremy Chauvin</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/b1thunt3r">
+            <img src="https://avatars.githubusercontent.com/u/791091?v=4" width="80;" alt="b1thunt3r"/>
+            <br />
+            <sub><b>Ishan Jain</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Compunctus">
+            <img src="https://avatars.githubusercontent.com/u/5058853?v=4" width="80;" alt="Compunctus"/>
+            <br />
+            <sub><b>Iaroslav Dronskii</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/FormatToday">
+            <img src="https://avatars.githubusercontent.com/u/20515769?v=4" width="80;" alt="FormatToday"/>
+            <br />
+            <sub><b>FormatToday</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/deepsourcebot">
+            <img src="https://avatars.githubusercontent.com/u/60907429?v=4" width="80;" alt="deepsourcebot"/>
+            <br />
+            <sub><b>DeepSource Bot</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/skaarj1989">
+            <img src="https://avatars.githubusercontent.com/u/34756939?v=4" width="80;" alt="skaarj1989"/>
+            <br />
+            <sub><b>David</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BeginCI">
+            <img src="https://avatars.githubusercontent.com/u/57495754?v=4" width="80;" alt="BeginCI"/>
+            <br />
+            <sub><b>Begin</b></sub>
         </a>
     </td></tr>
 </table>
